@@ -32,7 +32,7 @@ Developing an investment management app used by 1.5 million users.
 - Co-authored code standards for iOS team of 10 people.
 - Mentored and onboarded 2 new hires.
 - Implemented accessibility navigation for complex UI 
-<br
+<br>
 
 EDUCATION
 - 
